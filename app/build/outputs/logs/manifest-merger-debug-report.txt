@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Szymon\.gradle\caches\transforms-4\ef198b8e79d562e39a7e591781f0fa0f\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Szymon\.gradle\caches\transforms-4\1de19a1e108222906724f4e3f432dcae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\92fb8f243e62d4ba59c0ce1f0894bf2c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\059c7aad83458df556716b243a04110c\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\c5ac73394166c3fd6f013bfbd1d3341d\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Szymon\.gradle\caches\transforms-4\a47c7de267503bc068e8fe845d48db34\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Szymon\.gradle\caches\transforms-4\56b01487038fed8f42f3901f9de27996\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\e2b7847b2297c7f35e888f375f3778e6\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\000ee469513baead942b8036b8671110\transformed\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\bcb451ceeb18b3422ede7d46b3098f4e\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\4776a82b685442bdd79ac011458e631b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\f2452ef1715c64398f02fcc0d05b779b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\83e6d1deb90d2ed37549961af71bde21\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\8a2274f55e6be1e6c8e228f8990f91c4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\89f9becf8b16011e9cb6faf90bcec88b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\8f4fcb4de98fe129587b5df6a7f95858\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\f73c3e024d2327c81f6c0f99fb0cfc37\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\e7b6e9c73f73f4a48f6806656e41c3e5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\97ff57a93777faaa253a2d171dd6f36c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\a1cbcace055fbeaadc0c17aca1dcf9e8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\55cf79d6cd968e56743baaead2967fbb\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\7aacbadc4a76559dc4e668f7887c1ac6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\1d54935b217032b43fb8d4c29c266e7b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\0de8de69fc4bbe117cc11e7307a9277a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\68bcdcfccb925e4e0fa16516ba1dd0a6\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Szymon\.gradle\caches\transforms-4\9f70fd761f31c108eff0a9c2eba994f6\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\403aa8699907dfb90f18c22db2450468\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4403102b92c8c7fd772dd7467d8b77ea\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\c079c65979b425a0137de463991b9e72\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\991d7b7499ecd1be49917539883453aa\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\3ce94519ce4739e3469d4b3c62a9019c\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\655d4c50d454d6f8017d12cd6b500542\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\85760dadaee96d332c45ee98b61f0141\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\f9dda9b843f27dc42f44bda43da922a8\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\eee594b235596bb0b6c26c11325cd423\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\ef316317fc2757805d1e8af6e42029fc\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\eb7c01cfd283c30d853e6709d5f66feb\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\85ea692b964d4fce752c399ebdcd05cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\544876b763d889c40e929ccc07f3615e\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\7a421266cd3d213c56e76a1955c0ab7e\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\b39b2816cbdefebb0219c39f6fa1ef4a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\5c04fcc1e39cca78bd25c2fc39471dc3\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:5:5-33:19
+INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Szymon\.gradle\caches\transforms-4\ef198b8e79d562e39a7e591781f0fa0f\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Szymon\.gradle\caches\transforms-4\ef198b8e79d562e39a7e591781f0fa0f\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Szymon\.gradle\caches\transforms-4\1de19a1e108222906724f4e3f432dcae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Szymon\.gradle\caches\transforms-4\1de19a1e108222906724f4e3f432dcae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\eee594b235596bb0b6c26c11325cd423\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\eee594b235596bb0b6c26c11325cd423\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\85ea692b964d4fce752c399ebdcd05cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\85ea692b964d4fce752c399ebdcd05cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:13:9-51
+	android:dataExtractionRules
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.myapplication.SimpleCalculatorActivity
+ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:16:13-53
+activity#com.example.myapplication.AdvancedCalculatorActivity
+ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:19:13-55
+activity#com.example.myapplication.AboutActivity
+ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:22:13-42
+activity#com.example.myapplication.MainActivity
+ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:exported
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml
+INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Szymon\.gradle\caches\transforms-4\ef198b8e79d562e39a7e591781f0fa0f\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Szymon\.gradle\caches\transforms-4\ef198b8e79d562e39a7e591781f0fa0f\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Szymon\.gradle\caches\transforms-4\1de19a1e108222906724f4e3f432dcae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Szymon\.gradle\caches\transforms-4\1de19a1e108222906724f4e3f432dcae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\92fb8f243e62d4ba59c0ce1f0894bf2c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\92fb8f243e62d4ba59c0ce1f0894bf2c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\059c7aad83458df556716b243a04110c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\059c7aad83458df556716b243a04110c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\c5ac73394166c3fd6f013bfbd1d3341d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\c5ac73394166c3fd6f013bfbd1d3341d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Szymon\.gradle\caches\transforms-4\a47c7de267503bc068e8fe845d48db34\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Szymon\.gradle\caches\transforms-4\a47c7de267503bc068e8fe845d48db34\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Szymon\.gradle\caches\transforms-4\56b01487038fed8f42f3901f9de27996\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Szymon\.gradle\caches\transforms-4\56b01487038fed8f42f3901f9de27996\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\e2b7847b2297c7f35e888f375f3778e6\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\e2b7847b2297c7f35e888f375f3778e6\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\000ee469513baead942b8036b8671110\transformed\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\000ee469513baead942b8036b8671110\transformed\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\bcb451ceeb18b3422ede7d46b3098f4e\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\bcb451ceeb18b3422ede7d46b3098f4e\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\4776a82b685442bdd79ac011458e631b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\4776a82b685442bdd79ac011458e631b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\f2452ef1715c64398f02fcc0d05b779b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\f2452ef1715c64398f02fcc0d05b779b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\83e6d1deb90d2ed37549961af71bde21\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\83e6d1deb90d2ed37549961af71bde21\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\8a2274f55e6be1e6c8e228f8990f91c4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\8a2274f55e6be1e6c8e228f8990f91c4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\89f9becf8b16011e9cb6faf90bcec88b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\89f9becf8b16011e9cb6faf90bcec88b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\8f4fcb4de98fe129587b5df6a7f95858\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\8f4fcb4de98fe129587b5df6a7f95858\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\f73c3e024d2327c81f6c0f99fb0cfc37\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\f73c3e024d2327c81f6c0f99fb0cfc37\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\e7b6e9c73f73f4a48f6806656e41c3e5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\e7b6e9c73f73f4a48f6806656e41c3e5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\97ff57a93777faaa253a2d171dd6f36c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\97ff57a93777faaa253a2d171dd6f36c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\a1cbcace055fbeaadc0c17aca1dcf9e8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\a1cbcace055fbeaadc0c17aca1dcf9e8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\55cf79d6cd968e56743baaead2967fbb\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\55cf79d6cd968e56743baaead2967fbb\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\7aacbadc4a76559dc4e668f7887c1ac6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\7aacbadc4a76559dc4e668f7887c1ac6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\1d54935b217032b43fb8d4c29c266e7b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Szymon\.gradle\caches\transforms-4\1d54935b217032b43fb8d4c29c266e7b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\0de8de69fc4bbe117cc11e7307a9277a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\0de8de69fc4bbe117cc11e7307a9277a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\68bcdcfccb925e4e0fa16516ba1dd0a6\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\68bcdcfccb925e4e0fa16516ba1dd0a6\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Szymon\.gradle\caches\transforms-4\9f70fd761f31c108eff0a9c2eba994f6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Szymon\.gradle\caches\transforms-4\9f70fd761f31c108eff0a9c2eba994f6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\403aa8699907dfb90f18c22db2450468\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\403aa8699907dfb90f18c22db2450468\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4403102b92c8c7fd772dd7467d8b77ea\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4403102b92c8c7fd772dd7467d8b77ea\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\c079c65979b425a0137de463991b9e72\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\c079c65979b425a0137de463991b9e72\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\991d7b7499ecd1be49917539883453aa\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\991d7b7499ecd1be49917539883453aa\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\3ce94519ce4739e3469d4b3c62a9019c\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\3ce94519ce4739e3469d4b3c62a9019c\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\655d4c50d454d6f8017d12cd6b500542\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\655d4c50d454d6f8017d12cd6b500542\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\85760dadaee96d332c45ee98b61f0141\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\85760dadaee96d332c45ee98b61f0141\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\f9dda9b843f27dc42f44bda43da922a8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\f9dda9b843f27dc42f44bda43da922a8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\eee594b235596bb0b6c26c11325cd423\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\eee594b235596bb0b6c26c11325cd423\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\ef316317fc2757805d1e8af6e42029fc\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\ef316317fc2757805d1e8af6e42029fc\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\eb7c01cfd283c30d853e6709d5f66feb\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\eb7c01cfd283c30d853e6709d5f66feb\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\85ea692b964d4fce752c399ebdcd05cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\85ea692b964d4fce752c399ebdcd05cf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\544876b763d889c40e929ccc07f3615e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\544876b763d889c40e929ccc07f3615e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\7a421266cd3d213c56e76a1955c0ab7e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\7a421266cd3d213c56e76a1955c0ab7e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\b39b2816cbdefebb0219c39f6fa1ef4a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\b39b2816cbdefebb0219c39f6fa1ef4a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\5c04fcc1e39cca78bd25c2fc39471dc3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Szymon\.gradle\caches\transforms-4\5c04fcc1e39cca78bd25c2fc39471dc3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Uczelniany_stuff\studia\Projektowanie aplikacji mobilnych\Pierwsze zajecia\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\eee594b235596bb0b6c26c11325cd423\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Szymon\.gradle\caches\transforms-4\eee594b235596bb0b6c26c11325cd423\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Szymon\.gradle\caches\transforms-4\4aeed110128fe51ab98a540e1bc13a64\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Szymon\.gradle\caches\transforms-4\05d3d0a77ebe6c4f589f8fee5a93ff33\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Szymon\.gradle\caches\transforms-4\4c0f91d09cfeda9dce47e396973c657d\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Szymon\.gradle\caches\transforms-4\7b70bbf22638b203264eb85e6d9c3043\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
