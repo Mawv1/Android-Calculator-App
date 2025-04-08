@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdvancedCalculatorActivity">
+
+    <TextView
+        android:id="@+id/inputTextView"
+        style="@style/CalcTextViewStyle"
+        android:hint="0"
+        android:layout_marginTop="5dp"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent="0.15"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="match_parent"
+        style="@style/CalcTextViewStyle"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent="0.15"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputTextView" />
+
+    <GridLayout
+        android:id="@+id/buttonGrid"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/left_and_right_margin"
+        android:layout_marginEnd="@dimen/left_and_right_margin"
+        android:useDefaultMargins="true"
+        app:layout_constraintTop_toBottomOf="@+id/resultTextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:rowCount="8"
+        android:columnCount="4">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/clearAllButton"
+            style="@style/operatorButtonStyle"
+            android:text="@string/all_clear"
+            app:layout_row="0"
+            app:layout_column="0"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_rowWeight="1" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/calculateButton"
+            style="@style/operatorButtonStyle"
+            android:text="="
+            app:layout_row="0"
+            app:layout_column="1" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/changeSymbolButton"
+            style="@style/operatorButtonStyle"
+            android:text="+/-"
+            app:layout_row="0"
+            app:layout_column="3"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/clearButton"
+            style="@style/operatorButtonStyle"
+            android:text="@string/clear"
+            app:layout_row="0"
+            app:layout_column="4" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/sevenButton"
+            style="@style/numberButtonStyle"
+            android:text="7"
+            app:layout_row="1"
+            app:layout_column="0" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/eightButton"
+            style="@style/numberButtonStyle"
+            android:text="8"
+            app:layout_row="1"
+            app:layout_column="1" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/nineButton"
+            style="@style/numberButtonStyle"
+            android:text="9"
+            app:layout_row="1"
+            app:layout_column="2" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/multiplyButton"
+            style="@style/operatorButtonStyle"
+            android:text="X"
+            app:layout_row="1"
+            app:layout_column="3" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fourButton"
+            style="@style/numberButtonStyle"
+            android:text="4"
+            app:layout_row="2"
+            app:layout_column="0" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fiveButton"
+            style="@style/numberButtonStyle"
+            android:text="5"
+            app:layout_row="2"
+            app:layout_column="1" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/sixButton"
+            style="@style/numberButtonStyle"
+            android:text="6"
+            app:layout_row="2"
+            app:layout_column="2" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/minusButton"
+            style="@style/operatorButtonStyle"
+            android:text="-"
+            app:layout_row="2"
+            app:layout_column="3" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/oneButton"
+            style="@style/numberButtonStyle"
+            android:text="1"
+            app:layout_row="3"
+            app:layout_column="0" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/twoButton"
+            style="@style/numberButtonStyle"
+            android:text="2"
+            app:layout_row="3"
+            app:layout_column="1" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/threeButton"
+            style="@style/numberButtonStyle"
+            android:text="3"
+            app:layout_row="3"
+            app:layout_column="2" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/plusButton"
+            style="@style/operatorButtonStyle"
+            android:text="+"
+            app:layout_row="3"
+            app:layout_column="3" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/zeroButton"
+            style="@style/numberButtonStyle"
+            android:text="0"
+            app:layout_row="4"
+            app:layout_column="0" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/decimalButton"
+            style="@style/operatorButtonStyle"
+            android:text="."
+            app:layout_row="4"
+            app:layout_column="1" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/divideButton"
+            style="@style/operatorButtonStyle"
+            android:text="/"
+            app:layout_row="4"
+            app:layout_column="3" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/sinusButton"
+            style="@style/operatorButtonStyle"
+            android:text="sin"
+            app:layout_row="5"
+            app:layout_column="0"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/cosinusButton"
+            style="@style/operatorButtonStyle"
+            android:text="cos"
+            app:layout_row="5"
+            app:layout_column="1"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/tangensButton"
+            style="@style/operatorButtonStyle"
+            android:text="tan"
+            app:layout_row="5"
+            app:layout_column="2"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/percentageButton"
+            style="@style/operatorButtonStyle"
+            android:text="%"
+            app:layout_row="5"
+            app:layout_column="3"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/logarithmButton"
+            style="@style/operatorButtonStyle"
+            android:text="log"
+            app:layout_row="6"
+            app:layout_column="0"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/naturalLogarithmButton"
+            style="@style/operatorButtonStyle"
+            android:text="ln"
+            app:layout_row="6"
+            app:layout_column="1"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/squareRootButton"
+            style="@style/operatorButtonStyle"
+            android:text="sqrt"
+            app:layout_row="6"
+            app:layout_column="2" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/power2Button"
+            style="@style/operatorButtonStyle"
+            android:text="x²"
+            app:layout_row="6"
+            app:layout_column="3"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/anyPowerButton"
+            style="@style/operatorButtonStyle"
+            android:text="xⁱ"/>
+
+    </GridLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

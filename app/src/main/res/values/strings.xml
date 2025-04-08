@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="about_app">The author of the calculator application is Mateusz Wasiak 245956. App was created for the mobile apps design classes.</string>
+    <string name="error_message">Error</string>
+    <string name="all_clear">AC</string>
+    <string name="menu">☰</string>
+    <string name="clear">◀</string>
+    <string name="about">About</string>
+    <string name="about_header">Welcome to About activity!</string>
+</resources>
